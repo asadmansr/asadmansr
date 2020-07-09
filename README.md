@@ -23,5 +23,6 @@ Writer for the newsletter [Since Last Commit](https://buttondown.email/since.las
 
 ### Get in touch
 - Twitter: https://twitter.com/asadmansr
+- Website: https://asadmansoor.com/
 - LinkedIn: https://www.linkedin.com/in/asadmansoor/
 - Medium: https://medium.com/@asadmansoor
