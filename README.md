@@ -1,21 +1,19 @@
 ### Hi 👋, I'm Asad!
 
-**I am an Android Developer working in Toronto, Canada.**
+I am a Senior Android Developer based in Toronto, Canada, focused on building reliable and user-friendly mobile applications. Below, you will find some of the projects I have been working on. If you would like to learn more or get in touch, please feel free to contact me.
 
-- :iphone: **Android apps**: 
-  - [Crumbs](https://play.google.com/store/apps/details?id=com.asadmansoor.crumbs) - A personal roadmap tool to manage goals and tasks.
-  - [Jotty](https://play.google.com/store/apps/details?id=com.asadmansoor.jotty) – A journal to keep track of mood and progress at work.
-  - [McMaster GPA](https://play.google.com/store/apps/details?id=com.asadmansoor.mcmastergpa&hl=en) – A 12.0 GPA calculator for McMaster University.
+#### Android projects: 
+_update coming soon_
 
-- :star: **GitHub Actions**: 
-  - [Shell Linter](https://github.com/marketplace/actions/shell-linter) – A GitHub Action that performs static analysis for shell scripts using ShellCheck.
-  - [Android Test Report](https://github.com/asadmansr/android-test-report-action) – A GitHub Action that prints Android test reports.
-  - [Firebase Test Lab](https://github.com/asadmansr/Firebase-Test-Lab-Action) – A GitHub Action for Firebase Test Lab. Submitted to GitHub Hackathon.
+#### Open-source and libraries
+- [Shell Linter](https://github.com/marketplace/actions/shell-linter) – A GitHub Action that performs static analysis for shell scripts using ShellCheck.
+- [Android Test Report](https://github.com/asadmansr/android-test-report-action) – A GitHub Action that prints Android test reports.
+- [Firebase Test Lab](https://github.com/asadmansr/Firebase-Test-Lab-Action) – A GitHub Action for Firebase Test Lab. Submitted to GitHub Hackathon.
 
-- 📚 **Blog**: 
-  - [Since Last Commit](https://blog.asadmansoor.com/) - My personal learnings within software development. 
+#### Personal Learning
+  - [Since Last Commit](https://asadmansoor.substack.com/) - A newsletter where I share my recent learnings in software development.
 
-- ☎️ **Contact Me**: 
-  - [Twitter](https://twitter.com/asadmansr)
-  - [LinkedIn](https://www.linkedin.com/in/asadmansoor/)
-  - [Website](https://asadmansoor.com/)
+#### Contact Me
+- [LinkedIn](https://www.linkedin.com/in/asadmansoor/)
+- [Twitter](https://twitter.com/asadmansr)
+- [Website](https://asadmansoor.com/)
